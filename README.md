@@ -1,6 +1,6 @@
 # Code-Carbon
 
-# Tutorial: Usando o CodeCarbon para TI Verde
+# Tutorial: Usando o CodeCarbon
 
 ## 1. O que é o CodeCarbon
 
